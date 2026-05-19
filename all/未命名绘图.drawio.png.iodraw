@@ -40,12 +40,6 @@
             <mxPoint x="340" y="584" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3ltXg0rLC8mVgBR-dMbR-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="IuvwRi1SDuSD47e8wRmf-9" target="3ltXg0rLC8mVgBR-dMbR-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="569" as="sourcePoint" />
-            <mxPoint x="340" y="600" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="3ltXg0rLC8mVgBR-dMbR-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="3ltXg0rLC8mVgBR-dMbR-1" target="3ltXg0rLC8mVgBR-dMbR-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="639" as="sourcePoint" />
