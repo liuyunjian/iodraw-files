@@ -8,7 +8,7 @@
           <mxGeometry x="240" y="310" width="180" height="39" as="geometry" />
         </mxCell>
         <mxCell id="IuvwRi1SDuSD47e8wRmf-5" value="&lt;span style=&quot;font-size: 14px; text-align: left;&quot;&gt;活动方案设计与材料准备&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="240" y="380" width="180" height="39" as="geometry" />
+          <mxGeometry x="240" y="370" width="180" height="39" as="geometry" />
         </mxCell>
         <mxCell id="IuvwRi1SDuSD47e8wRmf-7" value="&lt;span style=&quot;font-size: 14px; text-align: left;&quot;&gt;参与者招募与知情同意&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="240" y="450" width="180" height="39" as="geometry" />
@@ -28,7 +28,7 @@
         <mxCell id="3ltXg0rLC8mVgBR-dMbR-3" value="&lt;span style=&quot;font-size: 14px; text-align: left;&quot;&gt;方案修订与成果形成&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="240" y="800" width="180" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="3ltXg0rLC8mVgBR-dMbR-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" parent="1" source="IuvwRi1SDuSD47e8wRmf-1" target="IuvwRi1SDuSD47e8wRmf-5" edge="1">
+        <mxCell id="3ltXg0rLC8mVgBR-dMbR-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;width=7.126436781609196;endSize=3.15632183908046;" parent="1" source="IuvwRi1SDuSD47e8wRmf-1" target="IuvwRi1SDuSD47e8wRmf-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="490" as="sourcePoint" />
             <mxPoint x="440" y="440" as="targetPoint" />
