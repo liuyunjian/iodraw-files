@@ -11,7 +11,7 @@
           <mxGeometry x="240" y="350" width="180" height="28" as="geometry" />
         </mxCell>
         <mxCell id="IuvwRi1SDuSD47e8wRmf-7" value="&lt;span style=&quot;font-size: 14px; text-align: left;&quot;&gt;参与者招募与知情同意&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="240" y="400" width="180" height="28" as="geometry" />
+          <mxGeometry x="240" y="390" width="180" height="28" as="geometry" />
         </mxCell>
         <mxCell id="IuvwRi1SDuSD47e8wRmf-8" value="&lt;span style=&quot;font-size: 14px; text-align: left;&quot;&gt;筛选分组与前测评估&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="240" y="460" width="180" height="28" as="geometry" />
@@ -34,7 +34,7 @@
             <mxPoint x="440" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PJYRgG-gZqQiJgw3m8Zr-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;width=6.927374301675978;endSize=1.7798882681564248;endWidth=13.080740301488719;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="IuvwRi1SDuSD47e8wRmf-7">
+        <mxCell id="PJYRgG-gZqQiJgw3m8Zr-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;width=6.927374301675978;endSize=1.7798882681564248;endWidth=13.080740301488719;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IuvwRi1SDuSD47e8wRmf-5" target="IuvwRi1SDuSD47e8wRmf-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="329.89" y="378" as="sourcePoint" />
             <mxPoint x="329.89" y="390" as="targetPoint" />
